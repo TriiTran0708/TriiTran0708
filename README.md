@@ -49,8 +49,7 @@ Check out my repositories to see what I'm building!
 <div align="center">
 
 <a href="https://github.com/TriiTran0708">
-  <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="GitHub"/>
-</a>
+  
 
 </div>
 
