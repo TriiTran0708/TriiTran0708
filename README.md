@@ -30,19 +30,7 @@ Some of my personal projects and experiments:
 
 Check out my repositories to see what I'm building!
 
-## 📊 GitHub Profile
 
-<div align="center">
-
-<a href="https://github.com/TriiTran0708">
-  <img src="https://github-readme-stats.vercel.app/api?username=TriiTran0708&show_icons=true&theme=radical&hide_border=true" height="165"/>
-</a>
-
-<a href="https://github.com/TriiTran0708">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TriiTran0708&layout=compact&theme=radical&hide_border=true" height="165"/>
-</a>
-
-</div>
 
 ## 🌐 Find Me Around the Internet
 
