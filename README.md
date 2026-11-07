@@ -8,6 +8,10 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
+<a href="https://github.com/TriiTran0708/TriiTran0708"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-triitran0708-dark.svg"><img src="assets/project-triitran0708-light.svg" width="49%" alt="TriiTran0708"></picture></a>&nbsp;<a href="https://github.com/TriiTran0708/SoundScape"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-soundscape-dark.svg"><img src="assets/project-soundscape-light.svg" width="49%" alt="SoundScape"></picture></a>
+
+<a href="https://github.com/TriiTran0708/thuchanh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-thuchanh-dark.svg"><img src="assets/project-thuchanh-light.svg" width="49%" alt="thuchanh"></picture></a>&nbsp;<a href="https://github.com/TriiTran0708/frutiger-aero-coffee"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-frutiger-aero-coffee-dark.svg"><img src="assets/project-frutiger-aero-coffee-light.svg" width="49%" alt="frutiger-aero-coffee"></picture></a>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
