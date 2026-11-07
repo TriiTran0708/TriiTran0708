@@ -1,68 +1,25 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=500&color=FF9999&vCenter=true&&multiline=true&random=false&width=1200&height=60&lines=Hey+there!,+I’m+Tyler+Tran,+the+Vibe+Coder!👨‍💻)
-
-I'm a **Vibe Coder** who loves transforming ideas into reality through code. I mainly work with **HTML, CSS, and JavaScript**, building websites, experimenting with interfaces, and exploring creative ideas.
-
-When I'm not coding, you'll probably find me tinkering with smartphones, computers, or exploring different operating systems. I love discovering how technology works, customizing devices, and experimenting with new things.
-
-## 🛠️ My Toolkit
-
-- **Languages:** HTML, CSS, JavaScript
-- **Frontend:** Web Development, Responsive Design
-- **Design:** UI/UX Design
-- **Interests:** Vibe Coding, Tech Experimentation
-- **Platforms:** Linux, Windows, Android, iOS
-
-## 🔥 What I'm Passionate About
-
-- **Web Development:** Creating websites with unique designs and smooth experiences.
-- **Vibe Coding:** Bringing random ideas to life with the power of AI and code.
-- **Tech Exploration:** Tinkering with computers, smartphones, and operating systems.
-- **Customization:** Tweaking and personalizing devices to make them truly mine.
-- **Open Source:** Exploring interesting projects and sharing my own creations.
-
-## 🚀 Featured Projects
-
-Some of my personal projects and experiments:
-
-- **Songtify / Soundscape:** A music streaming web project.
-- **Web Experiments:** Creative websites and UI experiments.
-- **Tech Projects:** Small tools, experiments, and random ideas.
-
-Check out my repositories to see what I'm building!
-
-
-
-## 🌐 Find Me Around the Internet
-
 <div align="center">
 
-<a href="https://github.com/TriiTran0708">
-  
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Tyler Tran"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="14.832%" alt=""></picture><a href="https://www.tiktok.com/@tr.tyler_tuff"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="15.488%" alt="tiktok"></picture></a><a href="https://www.facebook.com/tr.tyler.tuff/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="18.426%" alt="facebook"></picture></a><a href="https://www.youtube.com/@tylerthecat-y2k"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="17.583%" alt="youtube"></picture></a><a href="https://www.instagram.com/twler._trn/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-4-dark.svg"><img src="assets/social-4-light.svg" width="18.836%" alt="instagram"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="14.832%" alt=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
+
+<a href="https://github.com/TriiTran0708/TriiTran0708"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-triitran0708-dark.svg"><img src="assets/project-triitran0708-light.svg" width="49%" alt="TriiTran0708"></picture></a>&nbsp;<a href="https://github.com/TriiTran0708/SoundScape"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-soundscape-dark.svg"><img src="assets/project-soundscape-light.svg" width="49%" alt="SoundScape"></picture></a>
+
+<a href="https://github.com/TriiTran0708/thuchanh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-thuchanh-dark.svg"><img src="assets/project-thuchanh-light.svg" width="49%" alt="thuchanh"></picture></a>&nbsp;<a href="https://github.com/TriiTran0708/frutiger-aero-coffee"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-frutiger-aero-coffee-dark.svg"><img src="assets/project-frutiger-aero-coffee-light.svg" width="49%" alt="frutiger-aero-coffee"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://soundscape-songtifyreborn.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My best project"></picture></a>&nbsp;&nbsp;<a href="https://github.com/TriiTran0708/SoundScape"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="Best repository"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=TriiTran0708"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>
-
-**GitHub:** [@TriiTran0708](https://github.com/TriiTran0708)
-
-## 💭 My Favorite Quote
-
-> “An idiot admires complexity, a genius admires simplicity, a physicist tries to make it simple, for an idiot anything the more complicated it is the more he will admire it, if you make something so clusterfucked he can't understand it he's gonna think you're a god cause you made it so complicated nobody can understand it. That's how they write journals in Academics, they try to make it so complicated people think you're a genius”
-― Terry Davis, Creator of Temple OS
-
-## ⚡ A Little More About Me
-
-- 🇻🇳 Based in Vietnam
-- 👨‍💻 A passionate Vibe Coder
-- 💻 Love computers and smartphones
-- 🐧 Interested in Linux and operating systems
-- 🌱 Always learning and experimenting
-- 🚀 Turning ideas into projects, one line at a time.
-
----
-
-## 🤝 Let's Build Something Epic!
-
-Thanks for stopping by my GitHub profile!
-
-Feel free to explore my repositories, check out my projects, and follow my coding journey.
-
-**Stay curious, keep experimenting, and never stop creating!** 🚀

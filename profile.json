@@ -1,0 +1,222 @@
+{
+  "version": 1,
+  "login": "TriiTran0708",
+  "seed": "#AA9367",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Tyler Tran",
+    "subtitle": "I'm a vibecoder from Vietnam 🇻🇳 \nI also exploring about phone",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Vietnam"
+      },
+      {
+        "icon": "code",
+        "label": "JavaScript•CSS•HTML"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "location_on",
+        "label": "Vietnam"
+      },
+      {
+        "icon": "person",
+        "label": "Vibecoder"
+      },
+      {
+        "icon": "language",
+        "label": "English and Vietnamese"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "terminal",
+        "label": "Visual Studio Code"
+      },
+      {
+        "icon": "adb",
+        "label": "Custom Rom"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Arch Linux"
+          },
+          {
+            "icon": "brand:hyprland",
+            "label": "Hyprland"
+          },
+          {
+            "icon": "brand:github",
+            "label": "GitHub"
+          },
+          {
+            "icon": "brand:tiktok",
+            "label": "Tiktok"
+          },
+          {
+            "icon": "brand:instagram",
+            "label": "Instagram"
+          },
+          {
+            "icon": "brand:youtube",
+            "label": "Youtube"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:spotify",
+            "label": "Spotify"
+          },
+          {
+            "icon": "brand:soundcloud",
+            "label": "SoundCloud"
+          },
+          {
+            "icon": "brand:steam",
+            "label": "Steam"
+          },
+          {
+            "icon": "brand:gmail",
+            "label": "Gmail"
+          },
+          {
+            "icon": "brand:pinterest",
+            "label": "Pinterest"
+          },
+          {
+            "icon": "brand:threads",
+            "label": "Thread"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@tr.tyler_tuff"
+      },
+      {
+        "icon": "brand:facebook",
+        "url": "https://www.facebook.com/tr.tyler.tuff/"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://www.youtube.com/@tylerthecat-y2k"
+      },
+      {
+        "icon": "brand:instagram",
+        "url": "https://www.instagram.com/twler._trn/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "outlined",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My best project",
+        "url": "https://soundscape-songtifyreborn.vercel.app/",
+        "style": "tonal"
+      },
+      {
+        "icon": "book_2",
+        "label": "Best repository",
+        "url": "https://github.com/TriiTran0708/SoundScape",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
