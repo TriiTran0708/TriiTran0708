@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "TriiTran0708",
-  "seed": "#AA9367",
+  "seed": "#B49E71",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -14,8 +14,8 @@
     "projects",
     "stats",
     "streak",
-    "wave",
-    "buttons"
+    "buttons",
+    "wave"
   ],
   "hidden": [],
   "hero": {
@@ -178,10 +178,15 @@
     ]
   },
   "projects": {
-    "source": "pinned",
-    "repos": [],
-    "overrides": {},
-    "empty": "No description yet.",
+    "source": "manual",
+    "repos": [
+      "SoundScape",
+      "TriiTran0708"
+    ],
+    "overrides": {
+      "TriiTran0708": {}
+    },
+    "empty": "Information",
     "fork": "Fork"
   },
   "stats": {
