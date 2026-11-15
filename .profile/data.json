@@ -1,9 +1,9 @@
 {
- "key": "28b44221",
+ "key": "c3702c80",
  "stars": 2,
- "contributions": 81,
+ "contributions": 83,
  "repos": 15,
- "followers": 1,
+ "followers": 2,
  "languages": [
   [
    "HTML",
@@ -23,43 +23,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 2,
-    "day": 25,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 26,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 27,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 28,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 29,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 30,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 31,
-    "today": false
-   }
-  ],
   [
    {
     "c": 7,
@@ -131,12 +94,25 @@
    {
     "c": 0,
     "day": 14,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 2,
+    "day": 15,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 4
  },
  "pins": [],
