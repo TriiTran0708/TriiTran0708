@@ -1,21 +1,21 @@
 {
- "key": "586ff3e5",
+ "key": "fe52a6d5",
  "stars": 2,
- "contributions": 84,
+ "contributions": 85,
  "repos": 15,
  "followers": 2,
  "languages": [
   [
    "HTML",
-   239153
+   240278
   ],
   [
    "CSS",
-   178526
+   184388
   ],
   [
    "JavaScript",
-   146533
+   147455
   ],
   [
    "TypeScript",
@@ -23,43 +23,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 7,
-    "day": 1,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 2,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 3,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 5,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 4,
-    "day": 7,
-    "today": false
-   }
-  ],
   [
    {
     "c": 1,
@@ -131,12 +94,25 @@
    {
     "c": 0,
     "day": 21,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 4
  },
  "pins": [],
